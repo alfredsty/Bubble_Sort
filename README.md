@@ -1,5 +1,4 @@
 # 버블정렬
-*램덤으로된 배열을 메소드를 이용하여 정렬 
 
 ## 구현 목록
 ``` Java
@@ -46,7 +45,10 @@ public class Main {
     }
 }
 ``` 
+## 설명
+*램덤으로된 배열을 메소드를 이용하여 정렬 
 
+## Tools
 
 ## Skill Stack
 ![Java](https://img.shields.io/badge/Java-FF160B.svg?&style=for-the-badge&logo=Java&logocolor=white)
